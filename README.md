@@ -34,7 +34,7 @@ npm run dev
 - `minIdle = initialSize`
 
 ### Parametros obligatorios Factory Plus
-- `factory = com.indra.jdbc.pool.EncryptedDataSourceFactoryPlus`
+- `factory = *****.util.conexion.EncryptedDataSourceFactoryPlus`
 - `removeAbandoned = true`
 - `removeAbandonedTimeout = 3600`
 - `validationInterval = 30000`
