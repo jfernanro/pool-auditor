@@ -1,6 +1,6 @@
 # JDBC Pool Auditor
 
-Herramienta web para auditar archivos `context.xml` de Tomcat y migrar configuraciones de pool JDBC al factory `EncryptedDataSourceFactoryPlus`.
+Herramienta web para auditar archivos `context.xml` de Tomcat y auditar/migrar configuraciones de pool JDBC al factory `EncryptedDataSourceFactoryPlus`.
 
 ## Caracteristicas
 
